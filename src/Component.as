@@ -12,7 +12,7 @@ package
 	{
 		public function Component()
 		{
-			trace(123);
+			trace(1231);
 		}
 	}
 }
